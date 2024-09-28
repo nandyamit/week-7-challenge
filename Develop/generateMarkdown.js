@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   
   - [Installation](#installation)
   - [Usage](#usage)
-  ${data.license ? '- [License](#license)\n' : ''}
+   ${data.license ? '- [License](#license)\n' : ''}
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
