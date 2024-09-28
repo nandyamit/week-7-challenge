@@ -1,9 +1,9 @@
-# erwregfv
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Enter title of the project
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   
-  gsfgfsgv
+  Explain how your application works
   
   ## Table of Contents
   
@@ -17,28 +17,28 @@
   
   ## Installation
   
-  sfsdfva
+  add installation instructions
   
   ## Usage
   
-  sfsdfsa
+  include how your project is used
   
   ## License
 
-This project is licensed under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
   
   ## Contributing
   
-  efsafasd
+  add guideline on how users can contribute and enhance your project
   
   ## Tests
   
-  safd
+  add steps for testing
   
   ## Questions
   
   For additional questions, please contact me at:
   
-  GitHub: [afcsdfc](https://github.com/afcsdfc)
-  Email: afdsadf
+  GitHub: [add your github username](https://github.com/add your github username)
+  Email: abc@domain.com
 
