@@ -4,6 +4,8 @@
 
 This README Generator is a command-line application that dynamically generates a professional README.md file based on user input. 
 
+Application Walkthrough - Application Walkthrough.mp4
+
 ## Table of Contents
 
 - [Installation](#installation)
